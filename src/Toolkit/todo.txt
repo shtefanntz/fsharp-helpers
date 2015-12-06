@@ -1,0 +1,3 @@
+﻿- add propper logging
+- add retry policy
+
