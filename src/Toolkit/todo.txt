@@ -1,3 +1,4 @@
 ﻿- add propper logging
 - add retry policy
+- refactor GetStringFromUrl to use option
 
